@@ -12,5 +12,5 @@
   VR application that has educational value tied with it.
   
   (click here for Youtube video)
-  
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xyXh163i9vE/0.jpg)](https://www.youtube.com/watch?v=xyXh163i9vE)
+
+[![Youtube link](screenshot.png?raw=true "Title")](https://www.youtube.com/watch?v=xyXh163i9vE)
