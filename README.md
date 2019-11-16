@@ -11,6 +11,6 @@
   of the new language while the user participates in the story. All together, Storybook is a fun 
   VR application that has educational value tied with it.
   
-  (click below for Youtube video)
+  *(click image below for Youtube video)*
 
 [![Youtube link](screenshot.png?raw=true "Title")](https://www.youtube.com/watch?v=xyXh163i9vE)
