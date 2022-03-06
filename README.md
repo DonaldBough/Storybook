@@ -11,7 +11,7 @@
   
 # Demo
 This is the VR environment for the story "Little Red Riding Hood" that was translated from a Spanish script into an English Script, then read aloud in English.
-https://user-images.githubusercontent.com/5701552/156942452-f8267025-c02f-45be-b667-126706f7b9df.mp4
+https://user-images.githubusercontent.com/5701552/156942623-93d3b85f-1757-4114-9eb1-5e6c89350702.mov
 
 # Full Demo
 You can see the full video on Youtube here:
